@@ -1,0 +1,167 @@
+
+catRole.png
+size: 198,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire0
+  rotate: false
+  xy: 2, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 34, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 66, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 70, 33
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 98, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 130, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: true
+  xy: 134, 33
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 162, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+frontArm0
+  rotate: true
+  xy: 146, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+frontArm1
+  rotate: false
+  xy: 165, 17
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+frontFoot
+  rotate: true
+  xy: 160, 2
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+frontHand
+  rotate: false
+  xy: 110, 13
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+frontLeg0
+  rotate: false
+  xy: 91, 10
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+frontLeg1
+  rotate: true
+  xy: 110, 2
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 3
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+rearArm0
+  rotate: true
+  xy: 130, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+rearArm1
+  rotate: false
+  xy: 91, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+rearFoot
+  rotate: false
+  xy: 155, 16
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+rearHand
+  rotate: true
+  xy: 125, 14
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+rearLeg0
+  rotate: false
+  xy: 48, 4
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+rearLeg1
+  rotate: true
+  xy: 139, 15
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 48, 27
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 70, 3
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+bunnyRole.png
+size: 229,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire0
+  rotate: true
+  xy: 2, 19
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 66, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 98, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 66, 33
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 130, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 162, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: true
+  xy: 130, 33
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 194, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+frontArm0
+  rotate: true
+  xy: 216, 23
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+frontArm1
+  rotate: false
+  xy: 41, 3
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+frontFoot
+  rotate: true
+  xy: 17, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+frontHand
+  rotate: false
+  xy: 142, 21
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+frontLeg0
+  rotate: false
+  xy: 95, 11
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+frontLeg1
+  rotate: false
+  xy: 216, 48
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 51
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+rearArm0
+  rotate: false
+  xy: 130, 18
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+rearArm1
+  rotate: true
+  xy: 52, 4
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+rearFoot
+  rotate: false
+  xy: 29, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+rearHand
+  rotate: false
+  xy: 153, 23
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+rearLeg0
+  rotate: false
+  xy: 115, 15
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+rearLeg1
+  rotate: true
+  xy: 2, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 194, 27
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+torso0
+  rotate: true
+  xy: 66, 10
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+torso1
+  rotate: false
+  xy: 216, 35
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

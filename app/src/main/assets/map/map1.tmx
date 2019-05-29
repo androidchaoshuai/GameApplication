@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="96" height="18" tilewidth="30" tileheight="30">
+ <objectgroup name="other">
+  <object name="rotationBarrier" x="859" y="173" width="173" height="49"/>
+  <object name="rotationBarrier" x="2612" y="179" width="173" height="49"/>
+  <object name="standBarrier" x="1555" y="177" width="173" height="49"/>
+ </objectgroup>
+ <objectgroup name="gold00">
+  <object name="gold" x="360" y="150" width="26" height="26"/>
+  <object name="gold" x="390" y="150" width="26" height="26"/>
+  <object name="gold" x="420" y="150" width="26" height="26"/>
+  <object name="gold" x="450" y="150" width="26" height="26"/>
+  <object name="gold" x="480" y="150" width="26" height="26"/>
+  <object name="gold" x="420" y="180" width="26" height="26"/>
+  <object name="gold" x="420" y="210" width="26" height="26"/>
+  <object name="gold" x="420" y="240" width="26" height="26"/>
+  <object name="gold" x="420" y="270" width="26" height="26"/>
+  <object name="gold" x="420" y="300" width="26" height="26"/>
+  <object name="gold" x="420" y="330" width="26" height="26"/>
+  <object name="gold" x="420" y="360" width="26" height="26"/>
+  <object name="gold" x="360" y="360" width="26" height="26"/>
+  <object name="gold" x="390" y="360" width="26" height="26"/>
+  <object name="gold" x="450" y="360" width="26" height="26"/>
+  <object name="gold" x="480" y="360" width="26" height="26"/>
+  <object name="gold" x="360" y="180" width="26" height="26"/>
+  <object name="gold" x="390" y="180" width="26" height="26"/>
+  <object name="gold" x="360" y="330" width="26" height="26"/>
+  <object name="gold" x="390" y="330" width="26" height="26"/>
+  <object name="gold" x="450" y="180" width="26" height="26"/>
+  <object name="gold" x="480" y="180" width="26" height="26"/>
+  <object name="gold" x="450" y="330" width="26" height="26"/>
+  <object name="gold" x="480" y="330" width="26" height="26"/>
+ </objectgroup>
+ <objectgroup name="gold01">
+  <object name="gold" x="1200" y="150" width="26" height="26"/>
+  <object name="gold" x="1230" y="150" width="26" height="26"/>
+  <object name="gold" x="1260" y="180" width="26" height="26"/>
+  <object name="gold" x="1230" y="180" width="26" height="26"/>
+  <object name="gold" x="1200" y="180" width="26" height="26"/>
+  <object name="gold" x="1170" y="180" width="26" height="26"/>
+  <object name="gold" x="1170" y="210" width="26" height="26"/>
+  <object name="gold" x="1200" y="210" width="26" height="26"/>
+  <object name="gold" x="1230" y="210" width="26" height="26"/>
+  <object name="gold" x="1200" y="240" width="26" height="26"/>
+  <object name="gold" x="1230" y="240" width="26" height="26"/>
+  <object name="gold" x="1260" y="210" width="26" height="26"/>
+  <object name="gold" x="1260" y="240" width="26" height="26"/>
+  <object name="gold" x="1320" y="180" width="26" height="26"/>
+  <object name="gold" x="1320" y="210" width="26" height="26"/>
+  <object name="gold" x="1320" y="240" width="26" height="26"/>
+  <object name="gold" x="1350" y="210" width="26" height="26"/>
+  <object name="gold" x="1350" y="180" width="26" height="26"/>
+  <object name="gold" x="1350" y="150" width="26" height="26"/>
+  <object name="gold" x="1380" y="150" width="26" height="26"/>
+  <object name="gold" x="1380" y="180" width="26" height="26"/>
+  <object name="gold" x="1380" y="210" width="26" height="26"/>
+  <object name="gold" x="1410" y="180" width="26" height="26"/>
+  <object name="gold" x="1410" y="210" width="26" height="26"/>
+  <object name="gold" x="1380" y="240" width="26" height="26"/>
+  <object name="gold" x="1350" y="240" width="26" height="26"/>
+  <object name="gold" x="1320" y="270" width="26" height="26"/>
+  <object name="gold" x="1260" y="270" width="26" height="26"/>
+  <object name="gold" x="1230" y="270" width="26" height="26"/>
+  <object name="gold" x="1260" y="300" width="26" height="26"/>
+  <object name="gold" x="1320" y="300" width="26" height="26"/>
+  <object name="gold" x="1350" y="270" width="26" height="26"/>
+  <object name="gold" x="1290" y="180" width="26" height="26"/>
+  <object name="gold" x="1290" y="210" width="26" height="26"/>
+  <object name="gold" x="1290" y="240" width="26" height="26"/>
+  <object name="gold" x="1290" y="270" width="26" height="26"/>
+  <object name="gold" x="1290" y="300" width="26" height="26"/>
+  <object name="gold" x="1290" y="330" width="26" height="26"/>
+ </objectgroup>
+ <objectgroup name="gold02">
+  <object name="gold" x="2005.5" y="151" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="151" width="26" height="26"/>
+  <object name="gold" x="2005.5" y="181" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="181" width="26" height="26"/>
+  <object name="gold" x="2005.5" y="211" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="211" width="26" height="26"/>
+  <object name="gold" x="2005.5" y="241" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="241" width="26" height="26"/>
+  <object name="gold" x="2005.5" y="271" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="271" width="26" height="26"/>
+  <object name="gold" x="2005.5" y="301" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="301" width="26" height="26"/>
+  <object name="gold" x="2005.5" y="331" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="331" width="26" height="26"/>
+  <object name="gold" x="2035.5" y="361" width="26" height="26"/>
+  <object name="gold" x="2065.5" y="361" width="26" height="26"/>
+  <object name="gold" x="2065.5" y="391" width="26" height="26"/>
+  <object name="gold" x="2095.5" y="391" width="26" height="26"/>
+  <object name="gold" x="2095.5" y="361" width="26" height="26"/>
+  <object name="gold" x="2125.5" y="361" width="26" height="26"/>
+  <object name="gold" x="2125.5" y="391" width="26" height="26"/>
+  <object name="gold" x="2155.5" y="391" width="26" height="26"/>
+  <object name="gold" x="2155.5" y="361" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="361" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="331" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="331" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="301" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="301" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="271" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="271" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="241" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="241" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="211" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="181" width="26" height="26"/>
+  <object name="gold" x="2215.5" y="151" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="151" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="181" width="26" height="26"/>
+  <object name="gold" x="2185.5" y="211" width="26" height="26"/>
+  <object name="gold" x="2065.5" y="331" width="26" height="26"/>
+  <object name="gold" x="2155.5" y="331" width="26" height="26"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,167 @@
+
+loliRole.png
+size: 229,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire0
+  rotate: false
+  xy: 59, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 91, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 123, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 155, 65
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: true
+  xy: 2, 26
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: true
+  xy: 66, 33
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: true
+  xy: 130, 33
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 194, 25
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+frontArm0
+  rotate: true
+  xy: 63, 2
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+frontArm1
+  rotate: false
+  xy: 93, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+frontFoot
+  rotate: true
+  xy: 122, 2
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+frontHand
+  rotate: true
+  xy: 108, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+frontLeg0
+  rotate: true
+  xy: 2, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+frontLeg1
+  rotate: false
+  xy: 120, 16
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 58
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+rearArm0
+  rotate: true
+  xy: 79, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+rearArm1
+  rotate: false
+  xy: 160, 22
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+rearFoot
+  rotate: true
+  xy: 176, 24
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+rearHand
+  rotate: false
+  xy: 132, 3
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+rearLeg0
+  rotate: false
+  xy: 93, 15
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+rearLeg1
+  rotate: false
+  xy: 140, 18
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: true
+  xy: 25, 4
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 187, 89
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1

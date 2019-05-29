@@ -1,0 +1,40 @@
+
+
+[
+    {
+	"type":"exchange",
+        "position": 40,
+	"showOrder":"10"
+    },
+{
+	"type":"exchange",
+        "position": 100,
+	"showOrder":"10"
+    },{
+	"type":"exchange",
+        "position": 160,
+	"showOrder":"10"
+    },{
+	"type":"exchange",
+        "position": 220,
+	"showOrder":"10"
+    },{
+	"type":"exchange",
+        "position": 280,
+	"showOrder":"01"
+    },
+{
+	"type":"exchange",
+        "position": 340,
+	"showOrder":"01"
+    },{
+	"type":"exchange",
+        "position": 400,
+	"showOrder":"01"
+    },
+    {
+        "type":"exchange",
+        "position": 460,
+	"showOrder":"01"
+    }
+]

@@ -1,0 +1,19 @@
+
+gun.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun
+  rotate: false
+  xy: 2, 6
+  size: 57, 29
+  orig: 59, 29
+  offset: 1, 0
+  index: -1
+muzzleLight
+  rotate: true
+  xy: 61, 2
+  size: 33, 30
+  orig: 35, 30
+  offset: 1, 0
+  index: -1

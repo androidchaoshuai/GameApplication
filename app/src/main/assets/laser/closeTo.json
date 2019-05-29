@@ -1,0 +1,12 @@
+[
+    {
+    "type":"closeTo",
+        "position": 460,
+	"moveTo":350
+    },
+    {
+        "type":"closeTo",
+        "position": 37,
+	"moveTo":100
+    }
+]
