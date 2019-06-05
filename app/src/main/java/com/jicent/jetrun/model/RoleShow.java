@@ -205,30 +205,41 @@ public class RoleShow extends Group implements InputListenerEx{
 			
 			public boolean touchDown (InputEvent event, float x, float y, int pointer, int button) {
 				
-				Log.e("JN====>", "图片被按下");
+				Log.e("shuai  ", "touchDown roleImg");
 				switch (StaticVariable.roleKind) {
 				case StaticVariable.role0:
-					
+                    Log.e("shuai  ", "role1  is buy ");
 					break;
 				case StaticVariable.role1:
 					if(!StaticVariable.isBuyRole1){
+                        Log.e("shuai  ", "role1  buy ");
 						screen.setPay(PayType.role1);
+					}else{
+						Log.e("shuai  ", "role1 is buy ");
 					}
 					break;
 				case StaticVariable.role2:
 					if(!StaticVariable.isBuyRole2){
+                        Log.e("shuai  ", "role2  buy ");
 						screen.setPay(PayType.role2);
+					}else{
+						Log.e("shuai  ", "role2 is buy ");
 					}
 					break;
 				case StaticVariable.role3:
 					if(!StaticVariable.isBuyRole3){
+                        Log.e("shuai  ", "role3  buy ");
 						screen.setPay(PayType.role3);
+					}else{
+						Log.e("shuai  ", "role3 is buy ");
 					}
 					break;
 				
 				case StaticVariable.role4:
 					if(!StaticVariable.isBuyRole4){
 						screen.setPay(PayType.role4);
+					}else{
+						Log.e("shuai  ", "role4 is buy ");
 					}
 					break;
 				}
@@ -239,30 +250,46 @@ public class RoleShow extends Group implements InputListenerEx{
 		});
 		petImg.addListener(new ClickListener(){
 			public boolean touchDown (InputEvent event, float x, float y, int pointer, int button) {
+                Log.e("shuai  ", "touchDown petImg");
 				switch (StaticVariable.roleKind) {
 				case StaticVariable.role0:
 					if(!StaticVariable.isBuyPet0){
 						screen.setPay(PayType.pet0);
+                        Log.e("shuai  ", "pet0  buy ");
+					}else{
+						Log.e("shuai  ", "pet0 is buy ");
 					}
 					break;
 				case StaticVariable.role1:
 					if(!StaticVariable.isBuyPet1){
+                        Log.e("shuai  ", "pet1  buy ");
 						screen.setPay(PayType.pet1);
+					}else{
+						Log.e("shuai  ", "pet1 is buy ");
 					}
 					break;
 				case StaticVariable.role2:
 					if(!StaticVariable.isBuyPet2){
+                        Log.e("shuai  ", "pet2  buy ");
 						screen.setPay(PayType.pet2);
+					}else{
+						Log.e("shuai  ", "pet2 is buy ");
 					}
 					break;
 				case StaticVariable.role3:
 					if(!StaticVariable.isBuyPet3){
+                        Log.e("shuai  ", "pet3  buy ");
 						screen.setPay(PayType.pet3);
+					}else{
+						Log.e("shuai  ", "pet3 is buy ");
 					}
 					break;
 				case StaticVariable.role4:
 					if(!StaticVariable.isBuyPet4){
+                        Log.e("shuai  ", "pet4  buy ");
 						screen.setPay(PayType.pet4);
+					}else{
+						Log.e("shuai  ", "pet4 is buy ");
 					}
 					break;
 				}

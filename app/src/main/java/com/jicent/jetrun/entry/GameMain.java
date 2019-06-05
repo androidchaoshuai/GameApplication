@@ -70,10 +70,10 @@ public class GameMain extends Game {
 			manager.load("map/map"+i+".tmx", TiledMap.class, tmxParameter);
 		}
 		
+
 		fontPatameter=new BitmapFontParameter();
 		fontPatameter.minFilter=TextureFilter.Linear;
 		fontPatameter.magFilter=TextureFilter.Linear;
-		
 		manager.load("font/allfont.fnt", BitmapFont.class,fontPatameter);//字体
 		
 		manager.load("sound/button.mp3",Sound.class);

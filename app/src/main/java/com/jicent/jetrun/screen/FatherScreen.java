@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+import android.util.Log;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.InputMultiplexer;
 import com.badlogic.gdx.ScreenAdapter;
@@ -218,13 +219,16 @@ public class FatherScreen extends ScreenAdapter {
 	
 	private static boolean isPaying = false;
 	public void setPay(final PayType type){
+		Log.e("shuai  ", "buy isPaying is " + isPaying);
 		if(isPaying)
 		{
+			Log.e("shuai  ", "go to buy?");
 			// skip
 		}
 		else
 		{
 			isPaying = true;
+			Log.e("shuai  ", "and this is go to buy");
 			PayUtil.pay(main.getActivity(), type, new IPayCallback() {
 				@Override
 				public void onPayFinish(boolean isPayOk) {

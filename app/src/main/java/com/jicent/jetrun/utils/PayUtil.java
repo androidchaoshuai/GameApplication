@@ -2,6 +2,7 @@ package com.jicent.jetrun.utils;
 
 import android.app.Activity;
 
+import android.util.Log;
 import com.rmc.Util;
 
 public class PayUtil {
@@ -25,6 +26,8 @@ public class PayUtil {
 	}
 
 	public static void pay(Activity activity, PayType paytype, IPayCallback callback) {
+		//老板说  这里弹框输入秘钥  进行转账阿希
+		Log.e("shuai  ", "this??????");
 		callback.onPayFinish(true);
 	}
 	
