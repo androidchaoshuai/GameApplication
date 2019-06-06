@@ -51,6 +51,7 @@ public class GameMain extends Game {
 //		setScreen(new GameScreen(this,ProcessType.gameScreen));
 //		setScreen(new ShopScreen(this, ProcessType.shopScreen));
 		setScreen(new LoadingScreen(this, ProcessType.loadingScreen));
+		//setScreen(new RegisterScreen(this, ProcessType.registerScreen));
 	}
 	
 	private void loadRes() {

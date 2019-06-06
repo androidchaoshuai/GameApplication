@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent"
+android:background="#000000">
+
+    <TextView
+            android:id="@+id/tv_welcome"
+            android:textSize="16sp"
+            android:text="@string/welcome"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"/>
+
+    <ImageView
+            android:layout_marginTop="80dp"
+            android:layout_below="@+id/tv_welcome"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/ic_launcher_round"
+    />
+
+    <LinearLayout
+            android:id="@+id/ll_shuru"
+            android:layout_centerVertical="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <EditText
+                android:id="@+id/ed_siyao"
+                android:hint="@string/siyao_hiti"
+                android:textColorHint="#FFFFFF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <CheckBox android:text="@string/jizhu"
+                  android:id="@+id/CheckBox01"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <Button
+        android:layout_below="@id/ll_shuru"
+        android:id="@+id/bt_denglu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/denglu"/>
+    <Button
+            android:layout_below="@id/bt_denglu"
+            android:id="@+id/bt_zhuce"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zhuce"/>/>
+
+</RelativeLayout>

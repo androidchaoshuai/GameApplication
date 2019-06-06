@@ -27,6 +27,7 @@ public class PayUtil {
 
 	public static void pay(Activity activity, PayType paytype, IPayCallback callback) {
 		//老板说  这里弹框输入秘钥  进行转账阿希
+		//通过paytype 判断转账多少
 		Log.e("shuai  ", "this??????");
 		callback.onPayFinish(true);
 	}

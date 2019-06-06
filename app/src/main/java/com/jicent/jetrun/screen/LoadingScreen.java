@@ -1,5 +1,6 @@
 package com.jicent.jetrun.screen;
 
+import android.content.Intent;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.Color;
@@ -11,6 +12,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle;
 import com.badlogic.gdx.utils.TimeUtils;
 import com.jicent.jetrun.data.StaticVariable;
 import com.jicent.jetrun.entry.GameMain;
+import com.jicent.jetrun.entry.RegisterActivity;
 import com.jicent.jetrun.extensions.ProcessEx.ProcessType;
 import com.jicent.jetrun.model.LoginReward;
 import com.jicent.jetrun.utils.DialogUtil;
@@ -40,7 +42,13 @@ public class LoadingScreen extends FatherScreen{
 				timer+=delta;
 				if (timer>0.1f) {
 					timer=0;
-					changeScreen(true, new ShopScreen(main, ProcessType.shopScreen));
+					//加载完毕进入注册界面
+					//changeScreen(true, new ShopScreen(main, ProcessType.shopScreen));
+					Intent intent = new Intent();
+					intent.setClass(main.getActivity(), RegisterActivity.class);
+					main.getActivity().startActivity(intent);
+					//changeScreen(true, new RegisterScreen(main, ProcessType.registerScreen));
+					//changeScreen(true, new ShopScreen(main, ProcessType.shopScreen));
 				}
 			}
 			

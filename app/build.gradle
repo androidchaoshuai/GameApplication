@@ -13,9 +13,13 @@ android {
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         javaCompileOptions { annotationProcessorOptions { includeCompileClasspath = true } }
     }
+
+    useLibrary 'org.apache.http.legacy'
+
     buildTypes {
         release {
             minifyEnabled false
@@ -36,9 +40,6 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation files('libs/asch-java-with-dependencies.jar')
-    implementation files('libs/fastjson-1.2.34.jar')
-    implementation files('libs/bitcoinj-core-0.14.7-bundled.jar')
-    implementation files('libs/log4j-1.2.17.jar')
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
@@ -46,4 +47,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation files('libs/gdx-backend-android.jar')
+    configurations {
+        all*.exclude group: 'com.google.common'
+    }
+    implementation files('libs/libokhttp_3.8.1.jar')
 }

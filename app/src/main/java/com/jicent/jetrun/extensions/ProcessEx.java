@@ -46,6 +46,6 @@ public class ProcessEx extends InputAdapter{
 	}
 
 	public enum ProcessType{
-		gameScreen,loadingScreen,shopScreen, empty, revieve,dismiss
+		gameScreen,registerScreen,loadingScreen,shopScreen, empty, revieve,dismiss
 	}
 }
